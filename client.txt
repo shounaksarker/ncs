@@ -1,0 +1,56 @@
+<section id="clients" class="clients">
+		<div class="container">
+			<div class="row">				
+				<div class="col-sm-12">
+					<!-- start section title-wrap -->
+					<div class="title-wrap">
+						<div class="section-title-box">
+							<h2 class="section-title">My  <strong>Clients</strong></h2>
+						</div><!-- end section-title-box -->
+					</div>
+					<!-- end section title-wrap -->
+				</div><!-- end col -->
+				<div class="col-sm-12">						
+					<div class="owl-carousel owl-theme">
+						<div class="client-item-wrap">
+							<img src="images/clients/1.png" alt="client 1"/>
+						</div><!-- end client-item-wrap -->
+						<div class="client-item-wrap">
+							<img src="images/clients/2.png" alt="client 2"/>
+						</div><!-- end client-item-wrap -->
+						<div class="client-item-wrap">
+							<img src="images/clients/3.png" alt="client 3"/>
+						</div><!-- end client-item-wrap -->
+						<div class="client-item-wrap">
+							<img src="images/clients/4.png" alt="client 4"/>
+						</div><!-- end client-item-wrap -->
+						<div class="client-item-wrap">
+							<img src="images/clients/5.png" alt="client 5"/>
+						</div><!-- end client-item-wrap -->
+						<div class="client-item-wrap">
+							<img src="images/clients/6.png" alt="client 6"/>
+						</div><!-- end client-item-wrap -->
+						<div class="client-item-wrap">
+							<img src="images/clients/7.png" alt="client 7"/>
+						</div><!-- end client-item-wrap -->
+						<div class="client-item-wrap">
+							<img src="images/clients/8.png" alt="client 8"/>
+						</div><!-- end client-item-wrap -->
+						<div class="client-item-wrap">
+							<img src="images/clients/9.png" alt="client 9"/>
+						</div><!-- end client-item-wrap -->
+						<div class="client-item-wrap">
+							<img src="images/clients/10.png" alt="client 10"/>
+						</div><!-- end client-item-wrap -->
+						<div class="client-item-wrap">
+							<img src="images/clients/11.png" alt="client 11"/>
+						</div><!-- end client-item-wrap -->
+						<div class="client-item-wrap">
+							<img src="images/clients/12.png" alt="client 12"/>
+						</div><!-- end client-item-wrap -->
+					</div><!-- end owl-carousel -->
+				</div><!-- end col -->
+			</div><!-- end row -->	
+		</div><!-- end container -->   
+		<div class="clearfix"></div>
+	</section>
